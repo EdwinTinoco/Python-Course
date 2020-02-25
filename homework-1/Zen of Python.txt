@@ -1,0 +1,16 @@
+Zen of python
+
+
+Zen generally refers to as a programmer focusing its code on certain characteristics
+so that your code can be understandable, clean, obviously to perform the function you must perform,
+without errors
+
+Each feature helps the programmer understand or have a more complete view of what should be
+Do or should take into account when writing your code.
+
+EL zen se refiere en general a como un programador de enfocar su codigo en ciertas caractericas 
+para que su codigo pueda ser entendible, limpio, obiamente que haga la funcion que debe realizar,
+sin errores. 
+
+Cada caracteristica ayuda al programador a entender o tener una vision mas completa de que debe 
+hacer o que debe tomar en cuenta a la hora de escribir su codigo.

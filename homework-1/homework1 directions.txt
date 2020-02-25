@@ -1,0 +1,11 @@
+Homework 2/24/19:
+
+Go through the Zen of Python: 
+https://www.python.org/dev/peps/pep-0020/
+
+and write out a brief explanation of what you think each item means.
+
+Read through the PEP 8 style guidelines: 
+https://www.python.org/dev/peps/pep-0008/
+
+Have a good night!
