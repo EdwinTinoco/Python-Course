@@ -26,7 +26,7 @@
 import operator
 from functools import reduce
 
-def flexible_counter(collection, op):
+def dynamic_reducer(collection, op):
     operators = {
         "+": operator.add,
         "-": operator.sub,
@@ -36,7 +36,7 @@ def flexible_counter(collection, op):
 
     return reduce((lambda total, element: operators[op](total, element)), collection)
 
-print(flexible_counter([1,2,3], "+"))
-print(flexible_counter([1,2,3], "-"))
-print(flexible_counter([1,2,3], "*"))
-print(flexible_counter([1,2,3], "/"))
+print(dynamic_reducer([1,2,3], "+"))
+print(dynamic_reducer([1,2,3], "-"))
+print(dynamic_reducer([1,2,3], "*"))
+print(dynamic_reducer([1,2,3], "/"))
