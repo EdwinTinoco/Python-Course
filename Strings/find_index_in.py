@@ -1,6 +1,6 @@
 sentence = 'The quick brown fox jumped over the lazy dog.'
 
-query = sentence.find('quick')
+query = sentence.find('q')
 query_two = sentence.index('quick')
 query_three = 'fox' in sentence
 
