@@ -151,6 +151,8 @@ def character_replace(string):
 
 print(character_replace("retrofitter"))
 
+#escibir el otro ejemplo que esta en la foto que tome
+
 
 
             
