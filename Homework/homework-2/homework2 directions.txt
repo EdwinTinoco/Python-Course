@@ -1,0 +1,36 @@
+Homework 2/25/2020:
+
+Complete the following challenges
+
+# Challenge 1: Find the Length of a String
+# ex: "The" => 3
+
+# Challenge 2: Create One String From Multiple Strings
+  # ex: 
+  # string1 = "the"
+  # string2 = "dog"
+  # output => "the dog"
+
+# Challenge 3: Swap first and last characters in a string
+# Ex: "the dog" => "ghe doT"
+# "ABCD" => "DBCA"
+# "WINDOWS" => "SINDOWW"
+
+# Challenge 4: Sum all items in a list
+# EX: [1, 2, 3] => 6
+
+# Challenge 5: Take list of words and return the longest one along with its length:
+# EX: ["PHP", "Backend", "Exercises"]
+# output => Longest Word: Exercises, Length: 9
+
+# Challenge 6: Replace all occurrences of the first letter in string with '$' EXCEPT for the first letter itself.
+# EX: "racecar" => "raceca$"
+# "retrofit" => "ret$ofit"
+# "talkative" => "talka$ive"
+# "bobby" => "bo$$y"
+
+Do your best. Challenge yourselves and try to make all of these their own functions (optional). Good Luck, and great job today!
+Gravatar for ryan.curtis88@gmail.com
+Ryan CurtisFebruary 25th 2020 4:27:51 pm
+Be sure to pseudo code each answer
+
