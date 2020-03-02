@@ -1,0 +1,7 @@
+Estudiar:
+
+for loop
+reduce fuction
+lambda fuction
+lists
+dictionaries
