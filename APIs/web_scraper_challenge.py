@@ -1,5 +1,4 @@
 #http://www.dailysmarty.com/posts/installing-anaconda-python-data-science-platform
-
 import requests
 from inflection import titleize
 from bs4 import BeautifulSoup
@@ -30,6 +29,9 @@ titles = titles_generator(links)
 
 for title in titles:
     print(title)
+
+
+
 
 
     
