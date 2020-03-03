@@ -1,0 +1,9 @@
+Do your next EyeQ Challenge.
+
+Solve these Coding Exercises:
+
+# 1) Write a function that generates a random hexadecimal color code
+# ex output => #00c274
+
+# 2) Write a function that takes in a string separated by hyphens and prints the words in a hyphen-separated sequence after sorting them alphabetically.
+# ex: "green-red-black-white" => "black-green-red-white "

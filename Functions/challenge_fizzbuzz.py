@@ -12,16 +12,16 @@ def fizzbuzz(max_value):
     
     for num in range(1, max_value + 1):
         if (num % first_multiple == 0) and (num % second_multiple == 0):
-            collection.append('FizzBuzz')
+            collection.append('FizzBuzz\n')
         elif (num % first_multiple == 0):
-            collection.append('Fizz')
+            collection.append('Fizz\n')
         elif (num % second_multiple == 0):
-            collection.append('Buzz')
+            collection.append('Buzz\n')
         
         else:
-            collection.append(num)
+            collection.append(f"{num}\n")
 
-    return collection
+    return "".join(collection)
 
 
 print(fizzbuzz(100))
