@@ -1,0 +1,12 @@
+Build three classes.
+ -Two of which must inherit from the first and employ polymorphism. 
+ -Between the three classes there must be at least: 
+    -5 methods 
+    -3 instance attributes
+    -1 class attribute. 
+ -Each class should have a dunder str and dunder repr, and the parent class should have a dunder init.
+"""
+If you missed today (RIP), watch up to and including: https://bottega.devcamp.com/12/guide/2314
+
+Great job today everyone! This was some tough material and we all crushed it!
+
