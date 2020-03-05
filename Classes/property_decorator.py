@@ -6,7 +6,7 @@ class Invoice:
 
     def formatter(self):
         return f'{self._client} owes: ${self._total}'
-
+       
     @property
     def client(self):
         return self._client
