@@ -6,7 +6,6 @@
 # print(subheader)
 
 tags = 'python,coding,programming,development'
-
 list_of_tags = tags.split(',')
 list_of_tags1 = tags.split()
 
