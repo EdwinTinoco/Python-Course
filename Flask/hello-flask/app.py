@@ -50,6 +50,7 @@ def add_guide():
 def get_guides():
     all_guides = Guide.query.all()
     result = guides_schema.dump(all_guides)
+    
     return jsonify(result)
 
 
@@ -57,6 +58,7 @@ def get_guides():
 @app.route("/guide/<id>", methods=["GET"])
 def get_guide(id):
     guide = Guide.query.get(id)
+
     return guide_schema.jsonify(guide)
 
 
@@ -71,6 +73,7 @@ def guide_update(id):
     guide.content = content
 
     db.session.commit()
+
     return guide_schema.jsonify(guide)
 
 
@@ -78,6 +81,7 @@ def guide_update(id):
 @app.route("/guide/<id>", methods=["DELETE"])
 def guide_delete(id):
     guide = Guide.query.get(id)
+
     db.session.delete(guide)
     db.session.commit()
 
