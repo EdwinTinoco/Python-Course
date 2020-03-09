@@ -20,9 +20,33 @@ Cheat Sheet:
 - Setting up Routes
 - Run Server
 - Test in Postman
+
+
 Answer These Questions:
 
 What is self in python and how might we use it?
+Self is a reserved word within a class, and is used for the variables that will be within an instance.
+
+Self es una palabra reservada dentro de una clase, y se usa para las variables que van a estar dentro de una instancia.
+
 How does inheritance work in python?
+
+Inheritance is when a daughter class inherits the attributes and methods of a parent class, writing the class name
+parent within the parentisis of the arguments of the class that you want to inherit the parent class.
+
+Inheritance es cuando una clase hija hereda los atributos y metodos de una clase padre, escribiendo el nombre de la clase 
+padre dentro de los parentisis de los arguemntos de la clase que desea heredar la clase padre.
+
 What is pipenv?
+It is the virtual working environment of python within a specific folder, and saves the versions of the dependencies
+with which you are working.
+
+Es el entorno virtual de trabajo de python dentro de un folder en especifico, y guarda la versiones de las dependencias
+con las que se esta trabajando.
+
 What is the purpose of __init__ in python
+It is the constructor of a class, it is always the first method to declare within a class, and it contains the variables or
+attributes that will work with when that class is instantiated.
+
+Es el constructor de una clase, siempre es el primer metodo en declarar dentro de una clase, y contiene las variables o 
+atributos con los que se va a trabajar para cuando se instancie esa clase.
