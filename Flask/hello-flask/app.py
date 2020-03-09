@@ -65,7 +65,7 @@ def get_guide(id):
 def guide_update(id):
     guide = Guide.query.get(id)
     title = request.json['title']
-    content = request.json['content']
+    content = request.json['content']    
 
     guide.title = title
     guide.content = content

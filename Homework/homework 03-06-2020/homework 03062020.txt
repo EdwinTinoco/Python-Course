@@ -1,0 +1,28 @@
+Create a Flask App with Full CRUD functionality
+
+I should be able to query for an individual item by id. Your database should include 
+an id and at least 3 fields.
+
+Cheat Sheet:
+
+- Create a project folder
+- Create environment ( pipenv --three)
+- Install my dependencies ( pipenv install )
+- Create app.py file
+- Import deps. 
+- Run shell to test imports
+- Set up boilerplate Flask and db code
+- Build your db tables
+    - Enter Py Repl
+    - from app import db
+    - db.create_all()
+    - exit()
+- Setting up Routes
+- Run Server
+- Test in Postman
+Answer These Questions:
+
+What is self in python and how might we use it?
+How does inheritance work in python?
+What is pipenv?
+What is the purpose of __init__ in python
