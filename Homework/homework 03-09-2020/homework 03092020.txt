@@ -10,14 +10,11 @@ Create a Virtual Wallet in Python
   - Go back to the main menu
   - Exit the Program
 
-Try using OOP principles to build this program. I will be looking at how your control structures ( the flow of your program, function routing, etc ) come together.
+Try using OOP principles to build this program. I will be looking at how your control structures 
+( the flow of your program, function routing, etc ) come together.
 
 - Bonus
   - Attempt to use a Flask API to persist account information.
 
 You have until Friday morning to get this finished. Help each other out, and good luck!
 
-Gravatar for ryan.curtis88@gmail.com
-Ryan CurtisMarch 9th 2020 5:28:40 pm
-If you were gone, we watched up to and including:
-https://bottega.devcamp.com/12/guide/1131
