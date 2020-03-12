@@ -1,0 +1,6 @@
+Curve ball:
+
+I need an easter egg feature in your wallets. You should have some special code I can type in ( not displayed to the user ) 
+that freezes a users assets entirely. No deposits, withdrawals, and displays a message to them regarding the seizure. 
+
+Keep up the good work!
