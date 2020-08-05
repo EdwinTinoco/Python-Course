@@ -6,9 +6,9 @@
 
 starter_sentence = 'The quick brown fox jumped'
 
-new_sentence = 'Thy' + starter_sentence[3:26]
+new_sentence = 'The' + starter_sentence[3:26]
 #  or
-new_sentence = 'Thy' + starter_sentence[3:]
+new_sentence = 'The' + starter_sentence[3:]
 
 
 print(new_sentence)
